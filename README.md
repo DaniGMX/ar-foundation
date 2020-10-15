@@ -1,3 +1,3 @@
-#h1 AR Foundation
+# AR Foundation
 
 Ar Foundation exercises for college AR subject
